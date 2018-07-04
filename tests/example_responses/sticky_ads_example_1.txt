@@ -1,0 +1,19 @@
+{
+   "id":3654654,
+   "cur":"EUR",
+   "seatbid":[
+      {
+         "group":0,
+         "bid":[
+            {
+               "adid":"4532",
+               "impid":1,
+               "price":0.5,
+               "dealid": "ABC-1234-6789",
+               "id":"STICKY_123_1_0",
+               "adm":""
+            }
+         ]
+      }
+   ]
+}

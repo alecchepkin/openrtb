@@ -1,0 +1,25 @@
+{
+  "name": "olegre/OpenRTB",
+  "description": "Olegre OpenRTB",
+  "authors": [
+    {
+      "name": "Oleg Chepkin",
+      "email": "olegre@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.0",
+    "ext-curl": "*"
+  },
+  "suggest": {
+    "ext-apc": "Allows opcode caching"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "5.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "OpenRTB\\": "src/"
+    }
+  }
+}
