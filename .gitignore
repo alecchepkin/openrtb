@@ -5,4 +5,4 @@ nbproject/*
 *.DS_Store
 ._*
 /nbproject/*
-.idea/
+.idea
