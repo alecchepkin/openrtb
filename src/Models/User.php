@@ -13,7 +13,7 @@ class User extends BaseModel {
 			'type' => self::ATTR_STRING
 		),
 		'yob' => array (
-			'type' => self::ATTR_INTEGER
+			'type' => self::ATTR_STRING
 		),
 		'gender' => array (
 			'type' => self::ATTR_STRING
